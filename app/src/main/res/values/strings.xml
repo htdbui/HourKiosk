@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hour Kiosk</string>
+    <string name="admin_description">Allows this app to operate as a dedicated-device kiosk.</string>
+</resources>
